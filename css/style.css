@@ -1,0 +1,68 @@
+.left-side {
+  width: 500px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.title {
+  color: #497d68;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.para {
+  line-height: 160%;
+  font-size: 16px;
+  color: black;
+  margin-bottom: 24px;
+}
+
+.percent-container {
+  border-top: 1px solid #497d68;
+  border-bottom: 1px solid #497d68;
+  padding: 24px;
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.percent {
+  font-size: 60px;
+  font-weight: bold;
+  color: #497d68;
+}
+
+.desc {
+  width: 200px;
+  font-size: 14px;
+  color: #497d68;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
+
+.img-container {
+  width: 500px;
+  position: absolute;
+  right: 100px;
+  top: 190px;
+}
+.bar {
+  width: 1px;
+  height: 80px;
+  background-color: #497d68;
+  position: absolute;
+  top: 10px;
+  left: 220px;
+}
+
+.image {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
